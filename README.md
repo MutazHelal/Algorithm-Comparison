@@ -1,4 +1,4 @@
-## Contents
+## Algorithm-Comparison
 
 - 1 Shortest Paths Algorithms
    - 1.1 Approximation of Dijkstra and Bellman-Ford Experiments

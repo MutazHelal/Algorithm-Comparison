@@ -5,7 +5,7 @@
 ### 1.1 Approximation of Dijkstra and Bellman-Ford Experiments
 
 Both ”dijkstraapprox” and ”bellmanfordapprox” are implemented by taking the original algorithms, modifying
-them such that this the following code, which relaxes the nodes, is run at most k times per node
+them such that this the following code, which relaxes the nodes, is run at most k times per node.
 
 ```
 if d[u]+w(u,v)¡d[v]

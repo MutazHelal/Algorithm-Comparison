@@ -1,48 +1,5 @@
 ## Algorithm-Comparison
 
-- 1 Shortest Paths Algorithms
-   - 1.1 Approximation of Dijkstra and Bellman-Ford Experiments
-      - 1.1.1 Dijkstra and Bellman Approximation
-      - 1.1.2 Number of Relaxation
-      - 1.1.3 Edge Weight Range Value
-      - 1.1.4 Relaxation Limit
-      - 1.1.5 Graph edge density
-   - 1.2 All Source Dijkstra and Bellman-Ford
-   - 1.3 Mystery function
-- 2 Dijkstra and A∗
-   - 2.1 How does A* it work?
-   - 2.2 What issues with Dijkstra’s algorithm is A* trying to address?
-   - 2.3 How would you empirically test Dijkstra’s vs A*?
-      - Dijkstra’s algorithm compare to A*? 2.4 If you generated an arbitrary heuristic function (similar to randomly generating weights), how would
-   - 2.5 What applications would you use A* instead of Dijkstra’s?
-   - 2.6 A* Implementation
-- 3 A* vs Dijkstra Performance on Networks
-   - 3.1 Experiment Outline
-   - 3.2 Stations on the Same line
-   - 3.3 Stations on the Adjacent lines
-   - 3.4 Stations with Several Transfers
-- 4 Code Refactor
-   - 4.1 Design Principles
-   - 4.2 Design Patterns
-   - 4.3 Modifying the design in Figure 2 to be robust to these potential changes.
-   - 4.4 Other types of Graphs and different implementations
-   - 1 Dijkstra Approximation vs BellmanFord Approximation List of Figures
-   - 2 Dijkstra Approximation vs BellmanFord Required number of Relaxation
-   - 3 Dijkstra Approximation vs BellmanFord edge weight limit
-   - 4 Dijkstra Approximation vs BellmanFord number of relaxation limit
-   - 5 Dijkstra Approximation vs BellmanFord edge density limit
-   - 6 Dijkstra Approximation vs BellmanFord edge density and relaxation limit
-   - 7 Mystery function log-log scaled graph
-   - 8 A* vs Dijkstra 1000 combinations with distance edge-weight
-   - 9 A* vs Dijkstra all combinations with distance edge-weight
-   - 10 A* vs Dijkstra 1000 combinations with distance + time edge-weight
-   - 11 A* vs Dijkstra 1000 combinations with line edge-weight
-   - 12 A* vs Dijkstra 1000 combinations with time edge-weight
-   - 13 A* vs Dijkstra Stations on the same line
-   - 14 A* vs Dijkstra Stations on adjacentLines
-   - 15 A* vs Dijkstra Stations with multiple transfers
-
-
 ## 1: Shortest Paths Algorithms
 
 ### 1.1 Approximation of Dijkstra and Bellman-Ford Experiments
